@@ -34,6 +34,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
+
+
     <TextView
         android:id="@+id/box_three_text"
         style="@style/WhiteBox"
